@@ -1,0 +1,16 @@
+streamlit==1.28.0
+selenium==4.15.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+langchain==0.0.310
+langchain-google-genai==0.0.7
+google-generativeai==0.3.0
+pyairtable==2.2.0
+python-dotenv==1.0.0
+pandas==2.1.1
+nltk==3.8.1
+python-dateutil==2.8.2
+APScheduler==3.10.4
+PyYAML==6.0.1
+colorama==0.4.6
+loguru==0.7.2
